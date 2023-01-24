@@ -1,2 +1,1 @@
-# Hisse-Fiyat-ile-Yapay-Zeka-Uygulamalar
-Derin Öğrenme ve Makine Öğrenme Algoritmaları İle Hisse Fiyat Tahmini ve Tahminlerin Görselleştirilmesi
+Makine Ogrenimi ve Derin Ogrenme Algoritmaları ile Uygulamalar
